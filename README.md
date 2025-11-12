@@ -7,13 +7,5 @@ https://vimeo.com/1135855090?share=copy&fl=sv&fe=ci
   <img src="https://github.com/user-attachments/assets/90e05278-d3e4-4cba-b492-3229b75e6fac" width="230">
 </p>
 
-<p align="center">
-  <iframe 
-    src="https://player.vimeo.com/video/1135855090?h=a04195bc72" 
-    width="640" 
-    height="360" 
-    frameborder="0" 
-    allow="autoplay; fullscreen; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</p>
+[![Watch the video](https://i.vimeocdn.com/video/2081322757-bf78c0dd7177ea1f0b88384ff2a981d6e511343642f8ae60cc91f3d7bfc794bc-d_640)](https://vimeo.com/1135855090)
+
